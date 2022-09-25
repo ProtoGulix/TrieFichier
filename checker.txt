@@ -1,0 +1,517 @@
+{'move': False, 'date': '2011:01:05 18:07:00', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\DSCF0049.JPG'}
+{'move': False, 'date': '2012:01:17 14:30:19', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\DSCF0211.JPG'}
+{'move': False, 'date': '2012:01:17 14:30:28', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\DSCF0212.JPG'}
+{'move': False, 'date': '2012:01:17 14:31:00', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\DSCF0214.JPG'}
+{'move': False, 'date': '2011:05:17 11:12:10', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_0960.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:24', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1239.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:28', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1240.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:31', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1241.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:37', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1343.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:40', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1344.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:45', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1345.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:48', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1346.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:51', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1347.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:56', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1348.JPG'}
+{'move': False, 'date': '2013:04:17 11:24:59', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1417.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:01', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1418.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:04', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1419.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:06', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1420.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:11', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1440.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:13', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1441.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:17', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1442.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:21', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1447.JPG'}
+{'move': False, 'date': '2013:04:17 11:25:24', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1448.JPG'}
+{'move': False, 'date': '2012:05:02 11:41:36', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1454.JPG'}
+{'move': False, 'date': '2011:05:20 10:32:16', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\PICT0056.JPG'}
+{'move': False, 'date': '2011:09:15 09:48:26', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\ULIYS (3).JPG'}
+{'move': False, 'date': '2012:10:17 07:29:57', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos uliys\\IMG_1159.JPG'}
+{'move': False, 'date': '2011:03:18 02:55:34', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\CDI.JPG'}
+{'move': False, 'date': '2011:05:17 12:05:30', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Cheval (2).JPG'}
+{'move': False, 'date': '2011:05:17 11:52:12', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\cheval (3).JPG'}
+{'move': False, 'date': '2012:01:17 14:23:10', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Cheval.JPG'}
+{'move': False, 'date': '2011:03:17 23:16:49', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Communication.JPG'}
+{'move': False, 'date': '2011:01:14 22:07:16', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\cuisine yolande (2).JPG'}
+{'move': False, 'date': '2011-06-10 09:43:00', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Cuisine Yolande.jpg'}
+{'move': False, 'date': '2011-04-07 08:57:00', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\dessin (2).jpg'}
+{'move': False, 'date': '2010:11:05 22:42:30', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Dessin 2.JPG'}
+{'move': False, 'date': '2011-04-07 08:58:00', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Dessin.jpg'}
+{'move': False, 'date': '2011:01:05 13:30:44', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\DSCF0019.JPG'}
+{'move': False, 'date': '2012:01:16 11:15:40', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\DSCF0098.JPG'}
+{'move': False, 'date': '2010:11:23 12:41:30', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Ferme.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:30', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1202.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:33', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1203.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:36', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1204.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:41', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1205.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:56', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1207.JPG'}
+{'move': False, 'date': '2013:03:25 09:37:53', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1356.JPG'}
+{'move': False, 'date': '2013:03:25 09:37:56', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1357.JPG'}
+{'move': False, 'date': '2013:03:25 09:37:59', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1397.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:03', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1398.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:06', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1399.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:11', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1400.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:15', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1401.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:32', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1402.JPG'}
+{'move': False, 'date': '2013:03:13 09:59:35', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1403.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:37', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1407.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:40', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1408.JPG'}
+{'move': False, 'date': '2011:03:17 23:38:18', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Informatique.JPG'}
+{'move': False, 'date': '2012:01:27 08:44:59', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Meca.JPG'}
+{'move': False, 'date': '2010:11:25 16:51:27', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\MELYSS esat.JPG'}
+{'move': False, 'date': '2011:12:16 10:00:05', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Pascale.JPG'}
+{'move': False, 'date': '2012:01:19 12:34:35', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Restauration - cuisine.JPG'}
+{'move': False, 'date': '2012:02:02 12:35:25', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Restauration - Service.JPG'}
+{'move': False, 'date': '2010:09:14 15:49:28', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Sciences (2).jpg'}
+{'move': False, 'date': '2011:02:22 14:23:38', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Sciences.jpg'}
+{'move': False, 'date': '2012:01:16 14:22:49', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Sport Sandra.JPG'}
+{'move': False, 'date': '2010:11:26 16:54:31', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\Sport Sophie.JPG'}
+{'move': False, 'date': '2011:04:20 08:45:02', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\TP.JPG'}
+{'move': False, 'date': '2012:10:17 07:29:50', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photos portes ouvertes\\IMG_1158.JPG'}
+{'move': False, 'date': '2012:10:17 07:29:44', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\MELYSS\\IMG_1157.JPG'}
+{'move': False, 'date': '2012:10:17 07:30:01', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\IMG_1160.JPG'}
+{'move': False, 'date': '2007:07:18 21:32:49', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\033 Bicyclette-2.JPG'}
+{'move': False, 'date': '2007:07:18 21:32:49', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\033 Bicyclette.jpg'}
+{'move': False, 'date': '2008:04:30 23:56:33', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\blog-dsc_2377-bille-contrejour.jpg'}
+{'move': False, 'date': '2007:09:09 15:47:44', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\oie.jpg'}
+{'move': False, 'date': '2006:05:01 16:36:00', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\ombre_du_temps.jpg'}
+{'move': False, 'date': '2007:04:16 16:44:56', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\ombre_porte_3.jpg'}
+{'move': False, 'date': '2008:02:27 14:19:24', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\ongle.jpg'}
+{'move': False, 'date': '2004:02:25 16:08:16', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\pain.jpg'}
+{'move': False, 'date': '2010:07:24 12:21:23', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\Nouveau dossier\\Images clipart maison des sons\\trafic-routier-valence_articlephoto.jpg'}
+{'move': False, 'date': '2010:05:27 08:58:34', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0433.JPG'}
+{'move': False, 'date': '2010:05:27 08:58:45', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0434.JPG'}
+{'move': False, 'date': '2010:05:27 08:59:10', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0435.JPG'}
+{'move': False, 'date': '2010:05:27 09:00:47', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0436.JPG'}
+{'move': False, 'date': '2010:05:27 09:01:07', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0437.JPG'}
+{'move': False, 'date': '2010:05:27 09:01:25', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0438.JPG'}
+{'move': False, 'date': '2010:05:27 09:02:26', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0439.JPG'}
+{'move': False, 'date': '2010:05:27 09:03:01', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0441.JPG'}
+{'move': False, 'date': '2010:05:27 09:04:30', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0442.JPG'}
+{'move': False, 'date': '2010:05:27 09:05:51', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0443.JPG'}
+{'move': False, 'date': '2010:05:27 09:06:15', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0444.JPG'}
+{'move': False, 'date': '2010:05:27 09:07:01', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0445.JPG'}
+{'move': False, 'date': '2010:05:27 09:07:20', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0446.JPG'}
+{'move': False, 'date': '2010:05:27 09:10:22', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0450.JPG'}
+{'move': False, 'date': '2010:05:27 09:10:40', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0451.JPG'}
+{'move': False, 'date': '2010:05:27 09:11:56', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0452.JPG'}
+{'move': False, 'date': '2010:05:27 09:15:09', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0453.JPG'}
+{'move': False, 'date': '2010:05:27 09:15:25', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0454.JPG'}
+{'move': False, 'date': '2010:05:27 09:16:17', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0455.JPG'}
+{'move': False, 'date': '2010:05:27 09:21:51', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0456.JPG'}
+{'move': False, 'date': '2010:05:27 09:22:42', 'path': 'D:/$RECYCLE.BIN\\$R0AR0FL\\photo piscine test mai 10\\DSCI0457.JPG'}
+{'move': False, 'date': '2011:03:18 02:55:34', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\CDI.JPG'}
+{'move': False, 'date': '2011:05:17 12:05:30', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Cheval (2).JPG'}
+{'move': False, 'date': '2011:05:17 11:52:12', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\cheval (3).JPG'}
+{'move': False, 'date': '2012:01:17 14:23:10', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Cheval.JPG'}
+{'move': False, 'date': '2011:03:17 23:16:49', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Communication.JPG'}
+{'move': False, 'date': '2011:01:14 22:07:16', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\cuisine yolande (2).JPG'}
+{'move': False, 'date': '2011-06-10 09:43:00', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Cuisine Yolande.jpg'}
+{'move': False, 'date': '2011-04-07 08:57:00', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\dessin (2).jpg'}
+{'move': False, 'date': '2010:11:05 22:42:30', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Dessin 2.JPG'}
+{'move': False, 'date': '2011-04-07 08:58:00', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Dessin.jpg'}
+{'move': False, 'date': '2011:01:05 13:30:44', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\DSCF0019.JPG'}
+{'move': False, 'date': '2012:01:16 11:15:40', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\DSCF0098.JPG'}
+{'move': False, 'date': '2010:11:23 12:41:30', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Ferme.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:30', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1202.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:33', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1203.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:36', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1204.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:41', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1205.JPG'}
+{'move': False, 'date': '2013:03:25 09:41:56', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1207.JPG'}
+{'move': False, 'date': '2013:03:25 09:37:53', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1356.JPG'}
+{'move': False, 'date': '2013:03:25 09:37:56', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1357.JPG'}
+{'move': False, 'date': '2013:03:25 09:37:59', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1397.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:03', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1398.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:06', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1399.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:11', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1400.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:15', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1401.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:32', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1402.JPG'}
+{'move': False, 'date': '2013:03:13 09:59:35', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1403.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:37', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1407.JPG'}
+{'move': False, 'date': '2013:03:25 09:38:40', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\IMG_1408.JPG'}
+{'move': False, 'date': '2011:03:17 23:38:18', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Informatique.JPG'}
+{'move': False, 'date': '2012:01:27 08:44:59', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Meca.JPG'}
+{'move': False, 'date': '2010:11:25 16:51:27', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\MELYSS esat.JPG'}
+{'move': False, 'date': '2011:12:16 10:00:05', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Pascale.JPG'}
+{'move': False, 'date': '2012:01:19 12:34:35', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Restauration - cuisine.JPG'}
+{'move': False, 'date': '2012:02:02 12:35:25', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Restauration - Service.JPG'}
+{'move': False, 'date': '2010:09:14 15:49:28', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Sciences (2).jpg'}
+{'move': False, 'date': '2011:02:22 14:23:38', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Sciences.jpg'}
+{'move': False, 'date': '2012:01:16 14:22:49', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Sport Sandra.JPG'}
+{'move': False, 'date': '2010:11:26 16:54:31', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\Sport Sophie.JPG'}
+{'move': False, 'date': '2011:04:20 08:45:02', 'path': 'D:/$RECYCLE.BIN\\$RI248O6\\TP.JPG'}
+{'move': False, 'date': '2015:06:21 17:52:50', 'path': 'D:/Pictures\\20150621_175250.jpg'}
+{'move': False, 'date': '2015:06:22 19:58:36', 'path': 'D:/Pictures\\20150622_194900.jpg'}
+{'move': False, 'date': '2015:07:01 19:13:53', 'path': 'D:/Pictures\\20150701_114433.jpg'}
+{'move': False, 'date': '2015:07:15 08:48:55', 'path': 'D:/Pictures\\20150710_144815.jpeg'}
+{'move': False, 'date': '2015:07:23 18:04:00', 'path': 'D:/Pictures\\20150723_180401.jpg'}
+{'move': False, 'date': '2015:07:23 18:04:50', 'path': 'D:/Pictures\\20150723_180450.jpg'}
+{'move': False, 'date': '2015:07:23 18:05:53', 'path': 'D:/Pictures\\20150723_180553.jpg'}
+{'move': False, 'date': '2015:07:23 18:06:43', 'path': 'D:/Pictures\\20150723_180643.jpg'}
+{'move': False, 'date': '2015:08:26 11:36:09', 'path': 'D:/Pictures\\20150826_111115.jpg'}
+{'move': False, 'date': '2015:08:29 12:39:23', 'path': 'D:/Pictures\\20150829_123923.jpg'}
+{'move': False, 'date': '2015:08:29 12:39:32', 'path': 'D:/Pictures\\20150829_123933.jpg'}
+{'move': False, 'date': '2015:08:29 12:39:39', 'path': 'D:/Pictures\\20150829_123940.jpg'}
+{'move': False, 'date': '2015:08:29 12:39:47', 'path': 'D:/Pictures\\20150829_123947.jpg'}
+{'move': False, 'date': '2015:08:29 12:40:06', 'path': 'D:/Pictures\\20150829_124006.jpg'}
+{'move': False, 'date': '2015:08:29 12:40:18', 'path': 'D:/Pictures\\20150829_124018.jpg'}
+{'move': False, 'date': '2015:08:29 12:40:33', 'path': 'D:/Pictures\\20150829_124033.jpg'}
+{'move': False, 'date': '2015:08:29 12:41:25', 'path': 'D:/Pictures\\20150829_124125.jpg'}
+{'move': False, 'date': '2015:09:03 22:23:47', 'path': 'D:/Pictures\\20150903_222347.jpg'}
+{'move': False, 'date': '2015:09:03 22:23:50', 'path': 'D:/Pictures\\20150903_222351.jpg'}
+{'move': False, 'date': '2015:09:21 11:40:47', 'path': 'D:/Pictures\\20150921_114047.jpg'}
+{'move': False, 'date': '2015:09:21 11:41:08', 'path': 'D:/Pictures\\20150921_114108.jpg'}
+{'move': False, 'date': '2008:05:16 15:16:34', 'path': 'D:/Pictures\\Carte haute-loire.jpg'}
+{'move': False, 'date': '2014:12:11 10:32:36', 'path': 'D:/Pictures\\Couv-CI-228_Img_PageTechnologie.jpg'}
+{'move': False, 'date': '2007:06:05 00:44:03', 'path': 'D:/Pictures\\Eriba_Triton_vr.jpg'}
+{'move': False, 'date': '0000:00:00 00:00:00', 'path': 'D:/Pictures\\FEU_VERT_013.jpg'}
+{'move': False, 'date': '2008:03:23 01:06:51', 'path': 'D:/Pictures\\land-rover-lr3-g4-challenge-2008-5.jpg'}
+{'move': False, 'date': '2005:10:18 10:30:16', 'path': 'D:/Pictures\\land2010.jpg'}
+{'move': False, 'date': '2012:07:24 13:09:10', 'path': 'D:/Pictures\\ma-32175-01-1.jpg'}
+{'move': False, 'date': '2015:09:17 09:53:26', 'path': 'D:/Pictures\\24h\\20150917_095326.jpg'}
+{'move': False, 'date': '2015:09:17 09:53:38', 'path': 'D:/Pictures\\24h\\20150917_095338.jpg'}
+{'move': False, 'date': '2015:09:17 09:57:07', 'path': 'D:/Pictures\\24h\\20150917_095707.jpg'}
+{'move': False, 'date': '2015:09:17 10:53:36', 'path': 'D:/Pictures\\24h\\20150917_105337.jpg'}
+{'move': False, 'date': '2015:09:17 11:27:52', 'path': 'D:/Pictures\\24h\\20150917_112752.jpg'}
+{'move': False, 'date': '2015:09:17 11:27:56', 'path': 'D:/Pictures\\24h\\20150917_112756.jpg'}
+{'move': False, 'date': '2015:09:17 14:55:45', 'path': 'D:/Pictures\\24h\\20150917_145546.jpg'}
+{'move': False, 'date': '2015:09:17 14:56:15', 'path': 'D:/Pictures\\24h\\20150917_145615 - Copie.jpg'}
+{'move': False, 'date': '2015:09:17 14:56:15', 'path': 'D:/Pictures\\24h\\20150917_145615.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:00', 'path': 'D:/Pictures\\24h\\20150917_153001.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:08', 'path': 'D:/Pictures\\24h\\20150917_153008.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:16', 'path': 'D:/Pictures\\24h\\20150917_153016.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:35', 'path': 'D:/Pictures\\24h\\20150917_153035 - Copie.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:35', 'path': 'D:/Pictures\\24h\\20150917_153035.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:50', 'path': 'D:/Pictures\\24h\\20150917_153050 - Copie.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:50', 'path': 'D:/Pictures\\24h\\20150917_153050.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:53', 'path': 'D:/Pictures\\24h\\20150917_153054 - Copie.jpg'}
+{'move': False, 'date': '2015:09:17 15:30:53', 'path': 'D:/Pictures\\24h\\20150917_153054.jpg'}
+{'move': False, 'date': '2015:09:17 15:31:12', 'path': 'D:/Pictures\\24h\\20150917_153112.jpg'}
+{'move': False, 'date': '2015:09:17 15:31:27', 'path': 'D:/Pictures\\24h\\20150917_153127.jpg'}
+{'move': False, 'date': '2015:09:17 15:31:34', 'path': 'D:/Pictures\\24h\\20150917_153134.jpg'}
+{'move': False, 'date': '2015:09:17 15:31:47', 'path': 'D:/Pictures\\24h\\20150917_153147.jpg'}
+{'move': False, 'date': '2015:09:17 15:32:22', 'path': 'D:/Pictures\\24h\\20150917_153222.jpg'}
+{'move': False, 'date': '2015:09:17 15:32:30', 'path': 'D:/Pictures\\24h\\20150917_153231.jpg'}
+{'move': False, 'date': '2015:09:17 15:32:33', 'path': 'D:/Pictures\\24h\\20150917_153233 - Copie.jpg'}
+{'move': False, 'date': '2015:09:17 15:32:33', 'path': 'D:/Pictures\\24h\\20150917_153233.jpg'}
+{'move': False, 'date': '2015:09:17 15:33:29', 'path': 'D:/Pictures\\24h\\20150917_153329.jpg'}
+{'move': False, 'date': '2015:09:17 15:33:32', 'path': 'D:/Pictures\\24h\\20150917_153332.jpg'}
+{'move': False, 'date': '2015:09:17 15:33:35', 'path': 'D:/Pictures\\24h\\20150917_153335.jpg'}
+{'move': False, 'date': '2015:09:17 15:33:39', 'path': 'D:/Pictures\\24h\\20150917_153339.jpg'}
+{'move': False, 'date': '2015:09:17 15:34:03', 'path': 'D:/Pictures\\24h\\20150917_153403.jpg'}
+{'move': False, 'date': '2015:09:17 15:34:22', 'path': 'D:/Pictures\\24h\\20150917_153423.jpg'}
+{'move': False, 'date': '2015:09:17 15:58:14', 'path': 'D:/Pictures\\24h\\20150917_155814.jpg'}
+{'move': False, 'date': '2015:09:17 16:00:20', 'path': 'D:/Pictures\\24h\\20150917_160020.jpg'}
+{'move': False, 'date': '2015:09:17 16:00:23', 'path': 'D:/Pictures\\24h\\20150917_160024.jpg'}
+{'move': False, 'date': '2015:09:17 16:00:31', 'path': 'D:/Pictures\\24h\\20150917_160031.jpg'}
+{'move': False, 'date': '2015:09:17 16:00:57', 'path': 'D:/Pictures\\24h\\20150917_160057.jpg'}
+{'move': False, 'date': '2015:09:17 16:01:07', 'path': 'D:/Pictures\\24h\\20150917_160108.jpg'}
+{'move': False, 'date': '2015:09:17 21:01:04', 'path': 'D:/Pictures\\24h\\20150917_210104.jpg'}
+{'move': False, 'date': '2015:09:17 21:01:20', 'path': 'D:/Pictures\\24h\\20150917_210120.jpg'}
+{'move': False, 'date': '2015:09:17 21:05:07', 'path': 'D:/Pictures\\24h\\20150917_210507.jpg'}
+{'move': False, 'date': '2015:09:17 21:05:12', 'path': 'D:/Pictures\\24h\\20150917_210512.jpg'}
+{'move': False, 'date': '2015:09:17 21:05:29', 'path': 'D:/Pictures\\24h\\20150917_210530.jpg'}
+{'move': False, 'date': '2015:09:18 20:15:07', 'path': 'D:/Pictures\\24h\\20150918_201508.jpg'}
+{'move': False, 'date': '2015:09:18 20:15:14', 'path': 'D:/Pictures\\24h\\20150918_201514.jpg'}
+{'move': False, 'date': '2015:09:18 20:15:29', 'path': 'D:/Pictures\\24h\\20150918_201529.jpg'}
+{'move': False, 'date': '2015:09:18 20:15:35', 'path': 'D:/Pictures\\24h\\20150918_201535.jpg'}
+{'move': False, 'date': '2015:09:18 20:32:47', 'path': 'D:/Pictures\\24h\\20150918_203248.jpg'}
+{'move': False, 'date': '2015:09:18 20:43:30', 'path': 'D:/Pictures\\24h\\20150918_204330.jpg'}
+{'move': False, 'date': '2015:09:18 20:43:53', 'path': 'D:/Pictures\\24h\\20150918_204353.jpg'}
+{'move': False, 'date': '2015:09:18 20:44:03', 'path': 'D:/Pictures\\24h\\20150918_204403.jpg'}
+{'move': False, 'date': '2015:09:18 20:45:21', 'path': 'D:/Pictures\\24h\\20150918_204521.jpg'}
+{'move': False, 'date': '2015:09:19 08:43:33', 'path': 'D:/Pictures\\24h\\20150919_084333.jpg'}
+{'move': False, 'date': '2015:09:19 08:43:37', 'path': 'D:/Pictures\\24h\\20150919_084337.jpg'}
+{'move': False, 'date': '2015:09:19 11:23:01', 'path': 'D:/Pictures\\24h\\20150919_112301.jpg'}
+{'move': False, 'date': '2012:01:02 00:57:09', 'path': 'D:/Pictures\\GoPro\\2012-01-01\\Hero3-WhiteEdition\\GOPR0102.JPG'}
+{'move': False, 'date': '2015:10:04 11:49:51', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_114951.jpg'}
+{'move': False, 'date': '2015:10:04 14:32:16', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_143216.jpg'}
+{'move': False, 'date': '2015:10:04 14:32:19', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_143219.jpg'}
+{'move': False, 'date': '2015:10:04 14:32:47', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_143247.jpg'}
+{'move': False, 'date': '2015:10:04 14:32:53', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_143253.jpg'}
+{'move': False, 'date': '2015:10:04 14:33:07', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_143307.jpg'}
+{'move': False, 'date': '2015:10:04 14:48:08', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_144808.jpg'}
+{'move': False, 'date': '2015:10:04 14:50:14', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_145014.jpg'}
+{'move': False, 'date': '2015:10:04 14:50:32', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_145032.jpg'}
+{'move': False, 'date': '2015:10:04 14:50:36', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_145036.jpg'}
+{'move': False, 'date': '2015:10:04 14:51:17', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_145117.jpg'}
+{'move': False, 'date': '2015:10:04 14:51:59', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_145159.jpg'}
+{'move': False, 'date': '2015:10:04 16:05:55', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_160555.jpg'}
+{'move': False, 'date': '2015:10:04 16:28:25', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_162825.jpg'}
+{'move': False, 'date': '2015:10:04 16:28:30', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151004_162830.jpg'}
+{'move': False, 'date': '2015:10:05 09:57:17', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151005_095718.jpg'}
+{'move': False, 'date': '2015:10:05 09:57:24', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151005_095724.jpg'}
+{'move': False, 'date': '2015:10:05 09:57:47', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151005_095747.jpg'}
+{'move': False, 'date': '2015:10:05 09:58:11', 'path': 'D:/Pictures\\Nouveau dossier (2)\\20151005_095811.jpg'}
+{'move': False, 'date': '2015:04:18 10:56:16', 'path': 'D:/Pictures\\perso jp\\20150418_104722.jpg'}
+{'move': False, 'date': '2015:01:30 10:23:28', 'path': 'D:/Pictures\\photos blanche velay\\DSC00841.JPG'}
+{'move': False, 'date': '2015:01:30 10:35:48', 'path': 'D:/Pictures\\photos blanche velay\\DSC00855.JPG'}
+{'move': False, 'date': '2015:01:30 10:36:14', 'path': 'D:/Pictures\\photos blanche velay\\DSC00859.JPG'}
+{'move': False, 'date': '2015:01:30 10:37:04', 'path': 'D:/Pictures\\photos blanche velay\\DSC00860.JPG'}
+{'move': False, 'date': '2015:01:30 10:37:13', 'path': 'D:/Pictures\\photos blanche velay\\DSC00861.JPG'}
+{'move': False, 'date': '2015:01:30 10:37:17', 'path': 'D:/Pictures\\photos blanche velay\\DSC00862.JPG'}
+{'move': False, 'date': '2015:01:30 10:39:06', 'path': 'D:/Pictures\\photos blanche velay\\DSC00863.JPG'}
+{'move': False, 'date': '2015:01:30 23:49:42', 'path': 'D:/Pictures\\photos blanche velay\\DSC00867.JPG'}
+{'move': False, 'date': '2015:01:30 10:41:21', 'path': 'D:/Pictures\\photos blanche velay\\DSC00868.JPG'}
+{'move': False, 'date': '2015:01:30 10:41:29', 'path': 'D:/Pictures\\photos blanche velay\\DSC00869.JPG'}
+{'move': False, 'date': '2015:01:30 10:41:50', 'path': 'D:/Pictures\\photos blanche velay\\DSC00871.JPG'}
+{'move': False, 'date': '2015:01:30 10:42:07', 'path': 'D:/Pictures\\photos blanche velay\\DSC00872.JPG'}
+{'move': False, 'date': '2015:01:30 10:42:40', 'path': 'D:/Pictures\\photos blanche velay\\DSC00876.JPG'}
+{'move': False, 'date': '2015:01:30 10:43:18', 'path': 'D:/Pictures\\photos blanche velay\\DSC00879.JPG'}
+{'move': False, 'date': '2015:01:30 10:46:03', 'path': 'D:/Pictures\\photos blanche velay\\DSC00882.JPG'}
+{'move': False, 'date': '2015:01:30 10:51:19', 'path': 'D:/Pictures\\photos blanche velay\\DSC00885.JPG'}
+{'move': False, 'date': '2015:01:30 10:54:28', 'path': 'D:/Pictures\\photos blanche velay\\DSC00894.JPG'}
+{'move': False, 'date': '2015:01:30 10:54:40', 'path': 'D:/Pictures\\photos blanche velay\\DSC00895.JPG'}
+{'move': False, 'date': '2015:01:30 10:55:54', 'path': 'D:/Pictures\\photos blanche velay\\DSC00896.JPG'}
+{'move': False, 'date': '2015:01:30 10:56:51', 'path': 'D:/Pictures\\photos blanche velay\\DSC00897.JPG'}
+{'move': False, 'date': '2015:01:30 11:01:45', 'path': 'D:/Pictures\\photos blanche velay\\DSC00898.JPG'}
+{'move': False, 'date': '2015:01:30 11:02:42', 'path': 'D:/Pictures\\photos blanche velay\\DSC00902.JPG'}
+{'move': False, 'date': '2015:01:30 11:03:20', 'path': 'D:/Pictures\\photos blanche velay\\DSC00905.JPG'}
+{'move': False, 'date': '2015:01:30 11:03:25', 'path': 'D:/Pictures\\photos blanche velay\\DSC00906.JPG'}
+{'move': False, 'date': '2015:01:30 11:03:30', 'path': 'D:/Pictures\\photos blanche velay\\DSC00907.JPG'}
+{'move': False, 'date': '2015:01:30 11:05:45', 'path': 'D:/Pictures\\photos blanche velay\\DSC00912.JPG'}
+{'move': False, 'date': '2015:01:30 11:07:44', 'path': 'D:/Pictures\\photos blanche velay\\DSC00916.JPG'}
+{'move': False, 'date': '2015:01:30 11:08:50', 'path': 'D:/Pictures\\photos blanche velay\\DSC00920.JPG'}
+{'move': False, 'date': '2015:01:30 11:12:11', 'path': 'D:/Pictures\\photos blanche velay\\DSC00922.JPG'}
+{'move': False, 'date': '2015:01:30 11:12:25', 'path': 'D:/Pictures\\photos blanche velay\\DSC00923.JPG'}
+{'move': False, 'date': '2015:01:30 11:17:40', 'path': 'D:/Pictures\\photos blanche velay\\DSC00932.JPG'}
+{'move': False, 'date': '2015:01:30 11:18:13', 'path': 'D:/Pictures\\photos blanche velay\\DSC00934.JPG'}
+{'move': False, 'date': '2015:01:30 11:23:29', 'path': 'D:/Pictures\\photos blanche velay\\DSC00936.JPG'}
+{'move': False, 'date': '2015:01:30 11:23:36', 'path': 'D:/Pictures\\photos blanche velay\\DSC00937.JPG'}
+{'move': False, 'date': '2015:01:30 11:25:12', 'path': 'D:/Pictures\\photos blanche velay\\DSC00938.JPG'}
+{'move': False, 'date': '2015:01:30 11:26:59', 'path': 'D:/Pictures\\photos blanche velay\\DSC00943.JPG'}
+{'move': False, 'date': '2015:01:30 11:29:35', 'path': 'D:/Pictures\\photos blanche velay\\DSC00948.JPG'}
+{'move': False, 'date': '2015:01:30 11:31:33', 'path': 'D:/Pictures\\photos blanche velay\\DSC00949.JPG'}
+{'move': False, 'date': '2015:01:30 11:32:42', 'path': 'D:/Pictures\\photos blanche velay\\DSC00954.JPG'}
+{'move': False, 'date': '2015:01:30 11:32:46', 'path': 'D:/Pictures\\photos blanche velay\\DSC00955.JPG'}
+{'move': False, 'date': '2015:01:30 11:32:53', 'path': 'D:/Pictures\\photos blanche velay\\DSC00956.JPG'}
+{'move': False, 'date': '2015:01:30 11:32:58', 'path': 'D:/Pictures\\photos blanche velay\\DSC00957.JPG'}
+{'move': False, 'date': '2015:01:30 11:33:56', 'path': 'D:/Pictures\\photos blanche velay\\DSC00959.JPG'}
+{'move': False, 'date': '2015:01:30 11:37:37', 'path': 'D:/Pictures\\photos blanche velay\\DSC00961.JPG'}
+{'move': False, 'date': '2015:01:30 11:37:46', 'path': 'D:/Pictures\\photos blanche velay\\DSC00962.JPG'}
+{'move': False, 'date': '2015:01:30 11:38:19', 'path': 'D:/Pictures\\photos blanche velay\\DSC00963.JPG'}
+{'move': False, 'date': '2015:01:30 11:38:49', 'path': 'D:/Pictures\\photos blanche velay\\DSC00965.JPG'}
+{'move': False, 'date': '2015:01:30 11:38:57', 'path': 'D:/Pictures\\photos blanche velay\\DSC00966.JPG'}
+{'move': False, 'date': '2015:01:30 11:42:57', 'path': 'D:/Pictures\\photos blanche velay\\DSC00967.JPG'}
+{'move': False, 'date': '2015:01:30 12:06:02', 'path': 'D:/Pictures\\photos blanche velay\\DSC00970.JPG'}
+{'move': False, 'date': '2015:01:30 12:06:23', 'path': 'D:/Pictures\\photos blanche velay\\DSC00972.JPG'}
+{'move': False, 'date': '2015:01:30 12:06:53', 'path': 'D:/Pictures\\photos blanche velay\\DSC00973.JPG'}
+{'move': False, 'date': '2015:01:30 12:07:42', 'path': 'D:/Pictures\\photos blanche velay\\DSC00974.JPG'}
+{'move': False, 'date': '2015:01:30 12:08:21', 'path': 'D:/Pictures\\photos blanche velay\\DSC00975.JPG'}
+{'move': False, 'date': '2015:01:30 12:09:13', 'path': 'D:/Pictures\\photos blanche velay\\DSC00976.JPG'}
+{'move': False, 'date': '2015:01:30 12:09:17', 'path': 'D:/Pictures\\photos blanche velay\\DSC00977.JPG'}
+{'move': False, 'date': '2015:01:30 12:11:37', 'path': 'D:/Pictures\\photos blanche velay\\DSC00978.JPG'}
+{'move': False, 'date': '2015:01:30 12:13:00', 'path': 'D:/Pictures\\photos blanche velay\\DSC00982.JPG'}
+{'move': False, 'date': '2015:01:30 12:13:22', 'path': 'D:/Pictures\\photos blanche velay\\DSC00983.JPG'}
+{'move': False, 'date': '2015:01:30 12:13:53', 'path': 'D:/Pictures\\photos blanche velay\\DSC00984.JPG'}
+{'move': False, 'date': '2015:01:30 12:53:54', 'path': 'D:/Pictures\\photos blanche velay\\DSC00985.JPG'}
+{'move': False, 'date': '2015:01:30 12:54:27', 'path': 'D:/Pictures\\photos blanche velay\\DSC00986.JPG'}
+{'move': False, 'date': '2015:01:30 12:54:36', 'path': 'D:/Pictures\\photos blanche velay\\DSC00987.JPG'}
+{'move': False, 'date': '2015:01:30 12:54:42', 'path': 'D:/Pictures\\photos blanche velay\\DSC00988.JPG'}
+{'move': False, 'date': '2015:01:30 12:54:50', 'path': 'D:/Pictures\\photos blanche velay\\DSC00989.JPG'}
+{'move': False, 'date': '2015:01:30 13:22:44', 'path': 'D:/Pictures\\photos blanche velay\\DSC00990.JPG'}
+{'move': False, 'date': '2015:01:30 13:22:57', 'path': 'D:/Pictures\\photos blanche velay\\DSC00991.JPG'}
+{'move': False, 'date': '2015:01:30 13:23:27', 'path': 'D:/Pictures\\photos blanche velay\\DSC00992.JPG'}
+{'move': False, 'date': '2015:01:30 13:23:45', 'path': 'D:/Pictures\\photos blanche velay\\DSC00993.JPG'}
+{'move': False, 'date': '2015:01:30 13:23:55', 'path': 'D:/Pictures\\photos blanche velay\\DSC00994.JPG'}
+{'move': False, 'date': '2015:01:30 13:25:05', 'path': 'D:/Pictures\\photos blanche velay\\DSC00995.JPG'}
+{'move': False, 'date': '2015:01:30 13:25:15', 'path': 'D:/Pictures\\photos blanche velay\\DSC00996.JPG'}
+{'move': False, 'date': '2015:01:30 13:26:16', 'path': 'D:/Pictures\\photos blanche velay\\DSC00998.JPG'}
+{'move': False, 'date': '2015:01:30 13:27:00', 'path': 'D:/Pictures\\photos blanche velay\\DSC00999.JPG'}
+{'move': False, 'date': '2015:01:30 13:27:56', 'path': 'D:/Pictures\\photos blanche velay\\DSC01000.JPG'}
+{'move': False, 'date': '2015:01:30 13:28:31', 'path': 'D:/Pictures\\photos blanche velay\\DSC01001.JPG'}
+{'move': False, 'date': '2015:01:30 13:41:23', 'path': 'D:/Pictures\\photos blanche velay\\DSC01002.JPG'}
+{'move': False, 'date': '2015:01:30 13:41:32', 'path': 'D:/Pictures\\photos blanche velay\\DSC01003.JPG'}
+{'move': False, 'date': '2015:01:30 13:43:49', 'path': 'D:/Pictures\\photos blanche velay\\DSC01004.JPG'}
+{'move': False, 'date': '2015:01:30 13:44:03', 'path': 'D:/Pictures\\photos blanche velay\\DSC01005.JPG'}
+{'move': False, 'date': '2015:01:30 13:44:09', 'path': 'D:/Pictures\\photos blanche velay\\DSC01006.JPG'}
+{'move': False, 'date': '2015:01:30 13:44:19', 'path': 'D:/Pictures\\photos blanche velay\\DSC01007.JPG'}
+{'move': False, 'date': '2015:01:30 13:44:26', 'path': 'D:/Pictures\\photos blanche velay\\DSC01008.JPG'}
+{'move': False, 'date': '2015:01:30 13:44:47', 'path': 'D:/Pictures\\photos blanche velay\\DSC01009.JPG'}
+{'move': False, 'date': '2015:01:30 13:45:14', 'path': 'D:/Pictures\\photos blanche velay\\DSC01010.JPG'}
+{'move': False, 'date': '2015:01:30 13:45:32', 'path': 'D:/Pictures\\photos blanche velay\\DSC01011.JPG'}
+{'move': False, 'date': '2015:01:30 13:46:00', 'path': 'D:/Pictures\\photos blanche velay\\DSC01012.JPG'}
+{'move': False, 'date': '2015:01:30 13:46:15', 'path': 'D:/Pictures\\photos blanche velay\\DSC01013.JPG'}
+{'move': False, 'date': '2015:01:30 13:47:19', 'path': 'D:/Pictures\\photos blanche velay\\DSC01014.JPG'}
+{'move': False, 'date': '2015:01:30 13:47:29', 'path': 'D:/Pictures\\photos blanche velay\\DSC01015.JPG'}
+{'move': False, 'date': '2015:01:30 13:50:41', 'path': 'D:/Pictures\\photos blanche velay\\DSC01023.JPG'}
+{'move': False, 'date': '2015:01:30 13:51:35', 'path': 'D:/Pictures\\photos blanche velay\\DSC01024.JPG'}
+{'move': False, 'date': '2015:01:30 16:14:14', 'path': 'D:/Pictures\\photos blanche velay\\DSC01025.JPG'}
+{'move': False, 'date': '2015:04:11 00:01:04', 'path': 'D:/Pictures\\plein chant\\DSC_0087.JPG'}
+{'move': False, 'date': '2015:02:08 17:57:29', 'path': 'D:/Pictures\\produits ECT\\DSC_0387.JPG'}
+{'move': False, 'date': '2015:02:09 09:13:54', 'path': 'D:/Pictures\\produits ECT\\DSC_0388.JPG'}
+{'move': False, 'date': '2015:02:08 17:58:39', 'path': 'D:/Pictures\\produits ECT\\DSC_0389.JPG'}
+{'move': False, 'date': '2015:02:09 09:14:01', 'path': 'D:/Pictures\\produits ECT\\DSC_0390.JPG'}
+{'move': False, 'date': '2015:02:08 18:01:06', 'path': 'D:/Pictures\\produits ECT\\DSC_0391.JPG'}
+{'move': False, 'date': '2015:02:08 18:02:24', 'path': 'D:/Pictures\\produits ECT\\DSC_0392.JPG'}
+{'move': False, 'date': '2015:02:08 18:03:34', 'path': 'D:/Pictures\\produits ECT\\DSC_0394.JPG'}
+{'move': False, 'date': '2015:02:08 18:04:32', 'path': 'D:/Pictures\\produits ECT\\DSC_0395.JPG'}
+{'move': False, 'date': '2015:02:08 18:04:45', 'path': 'D:/Pictures\\produits ECT\\DSC_0396.JPG'}
+{'move': False, 'date': '2015:02:08 18:05:18', 'path': 'D:/Pictures\\produits ECT\\DSC_0397.JPG'}
+{'move': False, 'date': '2015:02:08 18:05:52', 'path': 'D:/Pictures\\produits ECT\\DSC_0399.JPG'}
+{'move': False, 'date': '2015:02:08 18:06:01', 'path': 'D:/Pictures\\produits ECT\\DSC_0400.JPG'}
+{'move': False, 'date': '2015:02:08 18:07:15', 'path': 'D:/Pictures\\produits ECT\\DSC_0401.JPG'}
+{'move': False, 'date': '2015:02:09 09:15:14', 'path': 'D:/Pictures\\produits ECT\\DSC_0403.JPG'}
+{'move': False, 'date': '2015:02:08 18:10:25', 'path': 'D:/Pictures\\produits ECT\\DSC_0404.JPG'}
+{'move': False, 'date': '2015:02:09 09:15:26', 'path': 'D:/Pictures\\produits ECT\\DSC_0405.JPG'}
+{'move': False, 'date': '2015:02:09 09:58:32', 'path': 'D:/Pictures\\produits ECT\\DSC_0406.JPG'}
+{'move': False, 'date': '2015:02:09 09:58:25', 'path': 'D:/Pictures\\produits ECT\\DSC_0407.JPG'}
+{'move': False, 'date': '2015:02:08 18:59:30', 'path': 'D:/Pictures\\produits ECT\\DSC_0408.JPG'}
+{'move': False, 'date': '2015:02:09 09:59:14', 'path': 'D:/Pictures\\produits ECT\\DSC_0409.JPG'}
+{'move': False, 'date': '2015:02:09 09:59:20', 'path': 'D:/Pictures\\produits ECT\\DSC_0410.JPG'}
+{'move': False, 'date': '2015:05:01 14:59:28', 'path': 'D:/Pictures\\restauration stage one\\20150501_145928.jpg'}
+{'move': False, 'date': '2015:05:01 14:59:37', 'path': 'D:/Pictures\\restauration stage one\\20150501_145938.jpg'}
+{'move': False, 'date': '2015:05:01 15:06:35', 'path': 'D:/Pictures\\restauration stage one\\20150501_150635.jpg'}
+{'move': False, 'date': '2015:05:01 15:07:03', 'path': 'D:/Pictures\\restauration stage one\\20150501_150703.jpg'}
+{'move': False, 'date': '2015:05:01 15:50:50', 'path': 'D:/Pictures\\restauration stage one\\20150501_155050.jpg'}
+{'move': False, 'date': '2015:05:01 15:51:45', 'path': 'D:/Pictures\\restauration stage one\\20150501_155145.jpg'}
+{'move': False, 'date': '2015:05:01 15:52:01', 'path': 'D:/Pictures\\restauration stage one\\20150501_155202.jpg'}
+{'move': False, 'date': '2015:05:01 16:47:28', 'path': 'D:/Pictures\\restauration stage one\\20150501_164728.jpg'}
+{'move': False, 'date': '2015:05:01 16:48:40', 'path': 'D:/Pictures\\restauration stage one\\20150501_164840.jpg'}
+{'move': False, 'date': '2015:05:01 16:48:44', 'path': 'D:/Pictures\\restauration stage one\\20150501_164844.jpg'}
+{'move': False, 'date': '2015:05:01 17:58:26', 'path': 'D:/Pictures\\restauration stage one\\20150501_175826.jpg'}
+{'move': False, 'date': '2015:05:01 17:58:44', 'path': 'D:/Pictures\\restauration stage one\\20150501_175844.jpg'}
+{'move': False, 'date': '2015:05:01 17:59:11', 'path': 'D:/Pictures\\restauration stage one\\20150501_175911.jpg'}
+{'move': False, 'date': '2015:05:01 18:11:49', 'path': 'D:/Pictures\\restauration stage one\\20150501_181149.jpg'}
+{'move': False, 'date': '2015:03:20 10:13:46', 'path': 'D:/Pictures\\ski\\20150320_101347.jpg'}
+{'move': False, 'date': '2015:03:20 12:16:54', 'path': 'D:/Pictures\\ski\\20150320_121655.jpg'}
+{'move': False, 'date': '2015:03:20 12:25:40', 'path': 'D:/Pictures\\ski\\20150320_122540.jpg'}
+{'move': False, 'date': '2015:03:20 12:25:51', 'path': 'D:/Pictures\\ski\\20150320_122551.jpg'}
+{'move': False, 'date': '2015:03:20 12:25:58', 'path': 'D:/Pictures\\ski\\20150320_122558.jpg'}
+{'move': False, 'date': '2015:03:21 14:50:07', 'path': 'D:/Pictures\\ski\\20150320_125127.jpg'}
+{'move': False, 'date': '2015:03:20 12:55:53', 'path': 'D:/Pictures\\ski\\20150320_125554.jpg'}
+{'move': False, 'date': '2015:03:20 12:55:56', 'path': 'D:/Pictures\\ski\\20150320_125557.jpg'}
+{'move': False, 'date': '2015:03:20 12:56:06', 'path': 'D:/Pictures\\ski\\20150320_125607.jpg'}
+{'move': False, 'date': '2015:03:20 12:58:40', 'path': 'D:/Pictures\\ski\\20150320_125841.jpg'}
+{'move': False, 'date': '2015:03:21 14:50:25', 'path': 'D:/Pictures\\ski\\20150320_130219.jpg'}
+{'move': False, 'date': '2015:03:20 13:05:28', 'path': 'D:/Pictures\\ski\\20150320_130528.jpg'}
+{'move': False, 'date': '2015:03:20 13:05:32', 'path': 'D:/Pictures\\ski\\20150320_130533.jpg'}
+{'move': False, 'date': '2015:03:20 13:05:51', 'path': 'D:/Pictures\\ski\\20150320_130551.jpg'}
+{'move': False, 'date': '2015:03:20 13:06:08', 'path': 'D:/Pictures\\ski\\20150320_130609.jpg'}
+{'move': False, 'date': '2015:03:21 14:51:13', 'path': 'D:/Pictures\\ski\\20150320_131011.jpg'}
+{'move': False, 'date': '2015:03:21 14:51:27', 'path': 'D:/Pictures\\ski\\20150320_131107.jpg'}
+{'move': False, 'date': '2015:03:20 13:15:32', 'path': 'D:/Pictures\\ski\\20150320_131532.jpg'}
+{'move': False, 'date': '2015:03:20 13:16:07', 'path': 'D:/Pictures\\ski\\20150320_131607.jpg'}
+{'move': False, 'date': '2015:03:20 13:16:10', 'path': 'D:/Pictures\\ski\\20150320_131610.jpg'}
+{'move': False, 'date': '2015:03:20 13:16:13', 'path': 'D:/Pictures\\ski\\20150320_131614.jpg'}
+{'move': False, 'date': '2015:03:20 13:18:35', 'path': 'D:/Pictures\\ski\\20150320_131835.jpg'}
+{'move': False, 'date': '2015:03:20 13:18:50', 'path': 'D:/Pictures\\ski\\20150320_131850.jpg'}
+{'move': False, 'date': '2015:03:21 14:53:54', 'path': 'D:/Pictures\\ski\\20150320_131859.jpg'}
+{'move': False, 'date': '2015:03:21 14:54:03', 'path': 'D:/Pictures\\ski\\20150320_142331.jpg'}
+{'move': False, 'date': '2015:03:20 15:19:51', 'path': 'D:/Pictures\\ski\\20150320_151952.jpg'}
+{'move': False, 'date': '2007:05:02 21:53:52', 'path': 'D:/Pictures\\souvenir du Maroc\\300310.jpg'}
+{'move': False, 'date': '2007:05:02 21:54:03', 'path': 'D:/Pictures\\souvenir du Maroc\\300317.jpg'}
+{'move': False, 'date': '2007:05:02 21:35:17', 'path': 'D:/Pictures\\souvenir du Maroc\\30038.jpg'}
+{'move': False, 'date': '2007:05:20 23:18:13', 'path': 'D:/Pictures\\souvenir du Maroc\\310301.jpg'}
+{'move': False, 'date': '2007:05:20 23:18:55', 'path': 'D:/Pictures\\souvenir du Maroc\\310302.jpg'}
+{'move': False, 'date': '2007:05:20 23:19:51', 'path': 'D:/Pictures\\souvenir du Maroc\\310303.jpg'}
+{'move': False, 'date': '2007:05:02 21:37:04', 'path': 'D:/Pictures\\souvenir du Maroc\\310304.jpg'}
+{'move': False, 'date': '2007:05:02 22:06:38', 'path': 'D:/Pictures\\souvenir du Maroc\\310311.jpg'}
+{'move': False, 'date': '2007:05:02 22:06:37', 'path': 'D:/Pictures\\souvenir du Maroc\\310312 (1).jpg'}
+{'move': False, 'date': '2007:05:02 22:06:37', 'path': 'D:/Pictures\\souvenir du Maroc\\310312.jpg'}
+{'move': False, 'date': '2007:05:02 21:47:21', 'path': 'D:/Pictures\\souvenir du Maroc\\bachir.jpg'}
+{'move': False, 'date': '2007:05:02 21:43:03', 'path': 'D:/Pictures\\souvenir du Maroc\\biv1.jpg'}
+{'move': False, 'date': '2007:05:02 21:39:16', 'path': 'D:/Pictures\\souvenir du Maroc\\bouffe.jpg'}
+{'move': False, 'date': '2007:05:02 21:39:10', 'path': 'D:/Pictures\\souvenir du Maroc\\bouffe2.jpg'}
+{'move': False, 'date': '2007:05:02 21:41:09', 'path': 'D:/Pictures\\souvenir du Maroc\\Camion.jpg'}
+{'move': False, 'date': '2007:05:02 21:29:11', 'path': 'D:/Pictures\\souvenir du Maroc\\car.jpg'}
+{'move': False, 'date': '2007:05:02 21:39:11', 'path': 'D:/Pictures\\souvenir du Maroc\\cm.jpg'}
+{'move': False, 'date': '2007:05:02 21:49:55', 'path': 'D:/Pictures\\souvenir du Maroc\\course4.jpg'}
+{'move': False, 'date': '2007:05:02 21:49:58', 'path': 'D:/Pictures\\souvenir du Maroc\\course41.jpg'}
+{'move': False, 'date': '2007:05:02 21:50:00', 'path': 'D:/Pictures\\souvenir du Maroc\\course43.jpg'}
+{'move': False, 'date': '2007:05:02 21:49:52', 'path': 'D:/Pictures\\souvenir du Maroc\\es1.jpg'}
+{'move': False, 'date': '2007:05:02 21:49:53', 'path': 'D:/Pictures\\souvenir du Maroc\\es2.jpg'}
+{'move': False, 'date': '2007:05:02 21:46:02', 'path': 'D:/Pictures\\souvenir du Maroc\\oasis.jpg'}
+{'move': False, 'date': '2007:05:02 21:38:09', 'path': 'D:/Pictures\\souvenir du Maroc\\sommeet4.jpg'}
+{'move': False, 'date': '2007:05:02 21:58:42', 'path': 'D:/Pictures\\souvenir du Maroc\\sommet.jpg'}
+{'move': False, 'date': '2007:05:02 21:38:06', 'path': 'D:/Pictures\\souvenir du Maroc\\sommet1.jpg'}
+{'move': False, 'date': '2007:05:02 21:38:07', 'path': 'D:/Pictures\\souvenir du Maroc\\sommet2.jpg'}
+{'move': False, 'date': '2007:05:02 21:46:01', 'path': 'D:/Pictures\\souvenir du Maroc\\terrain.jpg'}
+{'move': False, 'date': '2007:05:02 21:39:14', 'path': 'D:/Pictures\\souvenir du Maroc\\valise.jpg'}
+{'move': False, 'date': '2015:09:22 13:17:43', 'path': 'D:/Pictures\\tignes\\20150907_111812.jpg'}
+{'move': False, 'date': '2015:09:22 13:18:19', 'path': 'D:/Pictures\\tignes\\20150907_111835.jpg'}
+{'move': False, 'date': '2015:09:07 11:19:29', 'path': 'D:/Pictures\\tignes\\20150907_111930.jpg'}
+{'move': False, 'date': '2015:09:07 11:19:40', 'path': 'D:/Pictures\\tignes\\20150907_111940.jpg'}
+{'move': False, 'date': '2015:09:07 11:20:01', 'path': 'D:/Pictures\\tignes\\20150907_112002.jpg'}
+{'move': False, 'date': '2015:09:07 11:20:21', 'path': 'D:/Pictures\\tignes\\20150907_112022.jpg'}
+{'move': False, 'date': '2015:09:22 13:18:40', 'path': 'D:/Pictures\\tignes\\20150907_112037.jpg'}
+{'move': False, 'date': '2015:09:22 13:18:44', 'path': 'D:/Pictures\\tignes\\20150907_112055.jpg'}
+{'move': False, 'date': '2015:09:22 13:18:50', 'path': 'D:/Pictures\\tignes\\20150907_112118.jpg'}
+{'move': False, 'date': '2015:09:07 11:21:36', 'path': 'D:/Pictures\\tignes\\20150907_112136.jpg'}
+{'move': False, 'date': '2015:09:22 13:19:01', 'path': 'D:/Pictures\\tignes\\20150907_112218.jpg'}
+{'move': False, 'date': '2015:09:22 13:19:10', 'path': 'D:/Pictures\\tignes\\20150907_112226.jpg'}
+{'move': False, 'date': '2015:09:07 11:24:35', 'path': 'D:/Pictures\\tignes\\20150907_112435.jpg'}
+{'move': False, 'date': '2015:09:22 13:19:22', 'path': 'D:/Pictures\\tignes\\20150907_112502.jpg'}
+{'move': False, 'date': '2015:09:07 11:25:22', 'path': 'D:/Pictures\\tignes\\20150907_112522.jpg'}
+{'move': False, 'date': '2015:09:07 11:25:44', 'path': 'D:/Pictures\\tignes\\20150907_112545.jpg'}
+{'move': False, 'date': '2015:09:22 13:19:36', 'path': 'D:/Pictures\\tignes\\20150907_112602.jpg'}
+{'move': False, 'date': '2015:09:22 13:19:40', 'path': 'D:/Pictures\\tignes\\20150907_112617.jpg'}
+{'move': False, 'date': '2015:09:07 11:26:32', 'path': 'D:/Pictures\\tignes\\20150907_112632.jpg'}
+{'move': False, 'date': '2015:09:07 11:26:44', 'path': 'D:/Pictures\\tignes\\20150907_112644.jpg'}
+{'move': False, 'date': '2015:09:22 13:19:53', 'path': 'D:/Pictures\\tignes\\20150907_112725.jpg'}
+{'move': False, 'date': '2015:09:07 11:27:51', 'path': 'D:/Pictures\\tignes\\20150907_112751.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:02', 'path': 'D:/Pictures\\tignes\\20150907_112813.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:10', 'path': 'D:/Pictures\\tignes\\20150907_112839.jpg'}
+{'move': False, 'date': '2015:09:07 11:28:48', 'path': 'D:/Pictures\\tignes\\20150907_112849.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:15', 'path': 'D:/Pictures\\tignes\\20150907_112900.jpg'}
+{'move': False, 'date': '2015:09:07 11:29:21', 'path': 'D:/Pictures\\tignes\\20150907_112922.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:25', 'path': 'D:/Pictures\\tignes\\20150907_112941.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:29', 'path': 'D:/Pictures\\tignes\\20150907_113029.jpg'}
+{'move': False, 'date': '2015:09:07 11:30:49', 'path': 'D:/Pictures\\tignes\\20150907_113049.jpg'}
+{'move': False, 'date': '2015:09:07 11:31:02', 'path': 'D:/Pictures\\tignes\\20150907_113102.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:38', 'path': 'D:/Pictures\\tignes\\20150907_113138.jpg'}
+{'move': False, 'date': '2015:09:07 11:31:49', 'path': 'D:/Pictures\\tignes\\20150907_113149.jpg'}
+{'move': False, 'date': '2015:09:07 11:31:56', 'path': 'D:/Pictures\\tignes\\20150907_113156.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:46', 'path': 'D:/Pictures\\tignes\\20150907_113213.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:53', 'path': 'D:/Pictures\\tignes\\20150907_113238.jpg'}
+{'move': False, 'date': '2015:09:07 11:33:10', 'path': 'D:/Pictures\\tignes\\20150907_113310.jpg'}
+{'move': False, 'date': '2015:09:22 13:20:58', 'path': 'D:/Pictures\\tignes\\20150907_113324.jpg'}
+{'move': False, 'date': '2015:09:22 13:21:05', 'path': 'D:/Pictures\\tignes\\20150907_113340.jpg'}
+{'move': False, 'date': '2015:09:22 13:22:02', 'path': 'D:/Pictures\\tignes\\20150907_113351.jpg'}
+{'move': False, 'date': '2015:09:22 13:38:36', 'path': 'D:/Pictures\\tignes\\20150907_113358.jpg'}
+{'move': False, 'date': '2015:09:07 11:37:20', 'path': 'D:/Pictures\\tignes\\20150907_113720.jpg'}
+{'move': False, 'date': '2015:09:07 11:37:33', 'path': 'D:/Pictures\\tignes\\20150907_113733.jpg'}
+{'move': False, 'date': '2015:09:07 11:37:52', 'path': 'D:/Pictures\\tignes\\20150907_113752.jpg'}
+{'move': False, 'date': '2015:09:07 11:38:16', 'path': 'D:/Pictures\\tignes\\20150907_113816.jpg'}
+{'move': False, 'date': '2015:09:07 11:38:24', 'path': 'D:/Pictures\\tignes\\20150907_113824.jpg'}
+{'move': False, 'date': '2015:09:07 11:39:02', 'path': 'D:/Pictures\\tignes\\20150907_113902.jpg'}
+{'move': False, 'date': '2015:09:07 11:56:31', 'path': 'D:/Pictures\\tignes\\20150907_115631.jpg'}
+{'move': False, 'date': '2015:09:07 11:56:41', 'path': 'D:/Pictures\\tignes\\20150907_115641.jpg'}
+{'move': False, 'date': '2015:09:07 11:56:50', 'path': 'D:/Pictures\\tignes\\20150907_115650.jpg'}
+{'move': False, 'date': '2015:09:07 11:57:18', 'path': 'D:/Pictures\\tignes\\20150907_115718.jpg'}
+{'move': False, 'date': '2015:09:07 11:57:44', 'path': 'D:/Pictures\\tignes\\20150907_115744.jpg'}
+{'move': False, 'date': '2015:09:07 11:57:56', 'path': 'D:/Pictures\\tignes\\20150907_115756.jpg'}
+{'move': False, 'date': '2015:09:07 11:58:09', 'path': 'D:/Pictures\\tignes\\20150907_115809.jpg'}
+{'move': False, 'date': '2015:09:07 11:58:17', 'path': 'D:/Pictures\\tignes\\20150907_115817.jpg'}
+{'move': False, 'date': '2015:09:07 11:58:29', 'path': 'D:/Pictures\\tignes\\20150907_115829.jpg'}
+{'move': False, 'date': '2015:09:07 11:58:36', 'path': 'D:/Pictures\\tignes\\20150907_115836.jpg'}
+{'move': False, 'date': '2015:09:07 11:59:14', 'path': 'D:/Pictures\\tignes\\20150907_115914.jpg'}
+{'move': False, 'date': '2015:09:07 11:59:33', 'path': 'D:/Pictures\\tignes\\20150907_115933.jpg'}
+{'move': False, 'date': '2015:09:07 11:59:45', 'path': 'D:/Pictures\\tignes\\20150907_115946.jpg'}
+{'move': False, 'date': '2015:09:07 11:59:54', 'path': 'D:/Pictures\\tignes\\20150907_115954.jpg'}
+{'move': False, 'date': '2015:09:07 12:00:04', 'path': 'D:/Pictures\\tignes\\20150907_120004.jpg'}
+{'move': False, 'date': '2015:09:07 12:00:40', 'path': 'D:/Pictures\\tignes\\20150907_120040.jpg'}
+{'move': False, 'date': '2015:09:07 12:01:06', 'path': 'D:/Pictures\\tignes\\20150907_120106.jpg'}
+{'move': False, 'date': '2015:04:01 18:02:53', 'path': 'D:/Pictures\\téleph de tignes\\20150401_180253.jpg'}
+{'move': False, 'date': '2015:04:01 18:03:04', 'path': 'D:/Pictures\\téleph de tignes\\20150401_180305.jpg'}
+{'move': False, 'date': '2015:04:01 18:03:24', 'path': 'D:/Pictures\\téleph de tignes\\20150401_180324.jpg'}
+{'move': False, 'date': '2015:04:02 11:56:28', 'path': 'D:/Pictures\\téleph de tignes\\20150401_180333.jpg'}
+{'move': False, 'date': '2015:04:01 18:03:44', 'path': 'D:/Pictures\\téleph de tignes\\20150401_180344.jpg'}
+{'move': False, 'date': '2015:04:01 18:05:19', 'path': 'D:/Pictures\\téleph de tignes\\20150401_180519.jpg'}
+{'move': False, 'date': '2015:04:01 18:05:26', 'path': 'D:/Pictures\\téleph de tignes\\20150401_180526.jpg'}
+{'move': False, 'date': '2015:02:10 20:03:23', 'path': 'D:/Pictures\\téleph de tignes\\DSC_0417.JPG'}
+{'move': False, 'date': '2015:02:10 20:02:35', 'path': 'D:/Pictures\\téleph de tignes\\DSC_0418.JPG'}
+{'move': False, 'date': '2015:02:10 20:02:29', 'path': 'D:/Pictures\\téleph de tignes\\DSC_0419.JPG'}
+{'move': False, 'date': '2015:02:10 20:02:19', 'path': 'D:/Pictures\\téleph de tignes\\DSC_0420.JPG'}
+{'move': False, 'date': '2015:02:10 20:02:06', 'path': 'D:/Pictures\\téleph de tignes\\DSC_0421.JPG'}
+{'move': False, 'date': '2014:04:01 14:50:26', 'path': 'D:/Pictures\\téleph de tignes\\V1 AM(2).JPG'}
+{'move': False, 'date': '2014:04:01 14:50:15', 'path': 'D:/Pictures\\téleph de tignes\\V1 AM.JPG'}
+{'move': False, 'date': '2014:04:01 14:51:42', 'path': 'D:/Pictures\\téleph de tignes\\V1 AV.JPG'}
+{'move': False, 'date': '2014:04:01 14:52:41', 'path': 'D:/Pictures\\téleph de tignes\\V2 AM(2).JPG'}
+{'move': False, 'date': '2014:04:01 14:52:30', 'path': 'D:/Pictures\\téleph de tignes\\V2 AM.JPG'}
+{'move': False, 'date': '2014:04:01 15:15:03', 'path': 'D:/Pictures\\téleph de tignes\\V2 AV.JPG'}
+{'move': False, 'date': '2014:04:01 15:01:53', 'path': 'D:/Pictures\\téleph de tignes\\V3 AM(2).JPG'}
+{'move': False, 'date': '2014:04:01 14:38:30', 'path': 'D:/Pictures\\téleph de tignes\\V3 AM.JPG'}
+{'move': False, 'date': '2015:02:26 18:08:17', 'path': 'D:/Pictures\\téleph de tignes\\V3 AV.JPG'}
+{'move': False, 'date': '2015:02:26 18:08:35', 'path': 'D:/Pictures\\téleph de tignes\\V4 AM(2).JPG'}
+{'move': False, 'date': '2015:02:26 18:08:53', 'path': 'D:/Pictures\\téleph de tignes\\V4 AM.JPG'}
+{'move': False, 'date': '2015:02:26 18:09:08', 'path': 'D:/Pictures\\téleph de tignes\\V4 AV.JPG'}
+{'move': False, 'date': '2014:07:27 16:38:30', 'path': 'D:/Papa\\sam\\AppData\\Roaming\\Microsoft\\Windows\\Themes\\TranscodedWallpaper.jpg'}
