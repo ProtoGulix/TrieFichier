@@ -47,14 +47,14 @@ def MoveFile(source, destination):
     import os
     import shutil
 
-    if not os.path.ischemin(destination) or os.path.isfile(source):
+    if not os.path.isdir(destination) or os.path.isfile(source):
         try:
-            os.makechemins(destination)
+            os.makedirs(destination)
         except OSError:
-            if not os.path.ischemin(destination):
+            if not os.path.isdir(destination):
                 Raise
         try:
-            shutil.move(source, destination)
+            shutil.copy(source, destination)
             print(f'==> {destination}')
         except shutil.Error:
             print('Oups !!')
@@ -68,18 +68,26 @@ f_invalide = []
 f_valide = []
 
 
+chemin_in = input('Repertoire photo à Trier:')
+
+if not os.path.isdir(chemin_in):
+    chemin_in = input('Repertoire photo à Trier:')
+
+chemin_out = input('Repertoire de Sortie:')
+
+if not os.path.isdir(chemin_out):
+    chemin_out = input('Repertoire de Sortie:')
+
 if not os.path.isfile(f_manifest):
 
     manifest = open(f_manifest, 'w')
 
-    chemin = input('Repertoire photo à Trier:')
-
     data_json = []
     i = 1
 
-    for dossier in list(os.walk(chemin)):
+    for dossier in list(os.walk(chemin_in)):
 
-        c_dossier = os.path.join(chemin, dossier[0])
+        c_dossier = os.path.join(chemin_in, dossier[0])
         print(c_dossier)
 
         for fichier in dossier[2]:
@@ -114,37 +122,19 @@ if not os.path.isfile(f_manifest):
 
 
 else:
-
     data_manifest = open(f_manifest, 'r')
     data = json.load(data_manifest)
     for d in data:
+        try:
+            date = f"{d['date'][:4]}-{d['date'][5:7]}-{d['date'][8:10]}"
+            repertoire = f"{d['date'][:4]}/{date}"
+            c_fichier_out = os.path.join(chemin_out, repertoire)
+
+            print(f"{d['path']} --> {c_fichier_out}")
+
+            MoveFile(d['path'], c_fichier_out)
+
+        except AttributeError:
+            MoveFile(d['path'], os.path.join(chemin_in, no_date))
         print(d['path'])
     print('manifest')
-
-
-"""
-image_file = open(c_fichier, 'rb')
-            # if ImageLisible(c_fichier):
-            try:
-                print(c_fichier)
-                my_image = Image(image_file)
-
-                if my_image.has_exif:
-                    try:
-                        date = f'{my_image.datetime[:4]}-{my_image.datetime[5:7]}-{my_image.datetime[8:10]}'
-                        repertoire = f'{my_image.datetime[:4]}/{date}'
-                        print(f'-> {my_image.datetime}')
-                        c_fichier_out = os.path.join(chemin, repertoire)
-                        MoveImage(c_fichier, c_fichier_out)
-
-                    except AttributeError:
-                        MoveImage(c_fichier, os.path.join(chemin, no_date))
-
-                else:
-                    MoveImage(c_fichier, os.path.join(chemin, no_exif))
-            except Exception:
-                image_file.close()
-                print('Illisible')
-                MoveImage(c_fichier, os.path.join(chemin, no_lisible))
-
-"""
