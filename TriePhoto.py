@@ -4,8 +4,10 @@
 
 
 from calendar import c
+from genericpath import isfile
 from PIL.ExifTags import TAGS
 import os
+import json
 
 
 def ImageValide(racine):
@@ -58,38 +60,66 @@ def MoveFile(source, destination):
             print('Oups !!')
 
 
-chemin = input('Repertoire photo à Trier:')
+f_manifest = 'manifest.json'
 no_lisible = '0 - Incconnue'
 no_date = '1 - Pas de Date'
 no_exif = '2 - Sans Exif'
 f_invalide = []
 f_valide = []
 
-checker = open('manifest.txt', 'w')
 
-for dossier in list(os.walk(chemin)):
+if not os.path.isfile(f_manifest):
 
-    c_dossier = os.path.join(chemin, dossier[0])
-    print(c_dossier)
+    manifest = open(f_manifest, 'w')
 
-    for fichier in dossier[2]:
+    chemin = input('Repertoire photo à Trier:')
 
-        c_fichier = os.path.join(c_dossier, str(fichier))
+    data_json = []
+    i = 1
 
-        if os.path.isfile(c_fichier):
+    for dossier in list(os.walk(chemin)):
 
-            if ImageValide(c_fichier):
-                date = ExifDatetime(c_fichier)
-                if date is not None:
-                    print(f"Fichier valide {c_fichier} - {date}")
-                    json = {'move': False, 'date': date, 'path': c_fichier}
+        c_dossier = os.path.join(chemin, dossier[0])
+        print(c_dossier)
 
-                    checker.write(f"{json}\n")
+        for fichier in dossier[2]:
 
+            c_fichier = os.path.join(c_dossier, str(fichier))
+
+            if os.path.isfile(c_fichier):
+
+                if ImageValide(c_fichier):
+                    date = ExifDatetime(c_fichier)
+                    if date is not None:
+                        print(f"Fichier valide {c_fichier} - {date}")
+
+                        # Données fichier valide
+                        data_json.append({"id": i, "move": False,
+                                          "date": date, "path": c_fichier})
+
+                        # Serializing json
+                        json_object = json.dumps(data_json, indent=4)
+
+                        # Writing to sample.json
+                        with open(f_manifest, "w") as outfile:
+                            outfile.write(json_object)
+
+                        # ID
+                        i = i + 1
+
+                else:
+                    f_invalide.append(c_fichier)
             else:
-                f_invalide.append(c_fichier)
-        else:
-            print('Pas un fichier')
+                print('Pas un fichier')
+
+
+else:
+
+    data_manifest = open(f_manifest, 'r')
+    data = json.load(data_manifest)
+    for d in data:
+        print(d['path'])
+    print('manifest')
 
 
 """
